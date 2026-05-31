@@ -59,21 +59,9 @@ The project is built using **HTML and CSS**, with a focus on responsive design, 
 
 ---
 
-## 📁 Project Structure
-social-links-profile/
-│
-├── index.html
-├── style.css
-├── assets/
-│ └── images
-└── README.md
-
-
----
-
 ## 🔗 Links
 - Challenge: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
-- GitHub Repo: https://github.com/your-username/social-links-profile
+- GitHub Repo: https://github.com/Anees-ul-rehman-1/social-links-profile
 
 ---
 
