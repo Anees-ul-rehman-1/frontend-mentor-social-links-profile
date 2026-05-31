@@ -10,11 +10,6 @@ The project is built using **HTML and CSS**, with a focus on responsive design, 
 
 ---
 
-## 📸 Screenshot
-![Project Screenshot](./assets/screenshot.png)
-
----
-
 ## 🛠️ Built With
 - HTML5 (Semantic Structure)
 - CSS3
