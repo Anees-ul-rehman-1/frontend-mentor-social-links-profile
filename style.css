@@ -133,6 +133,7 @@ h3 {
     left: 150%;
 }
 
+
 footer{
     margin: 20px;
     padding: 20px;
@@ -141,4 +142,8 @@ footer{
 
     color: rgba(255, 255, 255, 0.7);
     font-size: 14px;
+}
+
+.link{
+    color: #c4f82a;
 }
