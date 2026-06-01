@@ -6,7 +6,7 @@ The project is built using **HTML and CSS**, with a focus on responsive design, 
 ---
 
 ## 🚀 Live Demo
-👉 https://your-live-site-link-here.netlify.app
+https://social-links-profile-frontend-mento.netlify.app
 
 ---
 
