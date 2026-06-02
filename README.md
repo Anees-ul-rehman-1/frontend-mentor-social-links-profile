@@ -55,8 +55,8 @@ https://social-links-profile-frontend-mento.netlify.app
 ---
 
 ## Links
-[- Challenge] (https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
-  [- GitHub Repo] (https://github.com/Anees-ul-rehman-1/social-links-profile)
+- Challenge: [Challenge] (https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
+-GitHub Repo: [GitHub Repo] (https://github.com/Anees-ul-rehman-1/social-links-profile)
 
 ---
 
