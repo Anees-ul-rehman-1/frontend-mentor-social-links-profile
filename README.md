@@ -1,16 +1,16 @@
-# 🌐 Social Links Profile - Frontend Mentor Challenge
+# Social Links Profile - Frontend Mentor Challenge
 
 This is my solution to the **Social Links Profile** challenge from Frontend Mentor.  
 The project is built using **HTML and CSS**, with a focus on responsive design, clean UI, and accessibility.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 https://social-links-profile-frontend-mento.netlify.app
 
 ---
 
-## 🛠️ Built With
+## Built With
 - HTML5 (Semantic Structure)
 - CSS3
 - Flexbox
@@ -20,7 +20,7 @@ https://social-links-profile-frontend-mento.netlify.app
 
 ---
 
-## 📌 Features
+## Features
 - Fully responsive layout (mobile + desktop)
 - Clean and modern profile card design
 - Interactive hover and focus effects on social links
@@ -29,7 +29,7 @@ https://social-links-profile-frontend-mento.netlify.app
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 - How to structure a real-world UI using semantic HTML
 - How to center elements properly using Flexbox
 - How to create responsive layouts using media queries
@@ -38,7 +38,7 @@ https://social-links-profile-frontend-mento.netlify.app
 
 ---
 
-## 💡 Challenges Faced
+## Challenges Faced
 - Centering the profile card perfectly on different screen sizes
 - Managing spacing and alignment between elements
 - Making hover states smooth and consistent
@@ -46,7 +46,7 @@ https://social-links-profile-frontend-mento.netlify.app
 
 ---
 
-## 🔧 Future Improvements
+## Future Improvements
 - Add smooth animations and transitions
 - Improve accessibility further (ARIA labels, etc.)
 - Convert into a React component for practice
@@ -54,13 +54,13 @@ https://social-links-profile-frontend-mento.netlify.app
 
 ---
 
-## 🔗 Links
+## Links
 - Challenge: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
 - GitHub Repo: https://github.com/Anees-ul-rehman-1/social-links-profile
 
 ---
 
-## 👨‍💻 Author
+## Author
 - Name: Anees Ul Rehman 
 - GitHub: https://github.com/Anees-ul-rehman-1
 - Frontend Mentor: https://www.frontendmentor.io/profile/Anees-ul-rehman-1
