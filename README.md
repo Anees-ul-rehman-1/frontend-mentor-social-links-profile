@@ -55,12 +55,12 @@ https://social-links-profile-frontend-mento.netlify.app
 ---
 
 ## Links
-- Challenge: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
-- GitHub Repo: https://github.com/Anees-ul-rehman-1/social-links-profile
+[- Challenge] (https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
+  [- GitHub Repo] (https://github.com/Anees-ul-rehman-1/social-links-profile)
 
 ---
 
 ## Author
 - Name: Anees Ul Rehman 
-- GitHub: https://github.com/Anees-ul-rehman-1
-- Frontend Mentor: https://www.frontendmentor.io/profile/Anees-ul-rehman-1
+- GitHub: [Anees Ul Rehman](https://github.com/Anees-ul-rehman-1)
+- Frontend Mentor: [@Anees-ul-rehman-1](https://www.frontendmentor.io/profile/Anees-ul-rehman-1)
